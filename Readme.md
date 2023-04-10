@@ -43,7 +43,7 @@ Using the following stack:
 
 ## Deployment
 - Vercel
-- Railway (https://pf-complex-gym-henry.vercel.app/)
+- Railway
 
 ## Dev & Version Control
 - GitHub (https://github.com/complexgym/PF-ComplexGym)
